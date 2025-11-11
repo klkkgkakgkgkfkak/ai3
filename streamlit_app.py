@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
     #   "texts": ["치킨 존맛"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://cdn.goob-ne.com/goobne/img/menu/acb303237d214c46a69b5cff390f3238.png"],
        "videos": ["https://youtu.be/q7JOrGYz8YE?si=KjuwUNnbgVrg0weu"]
      },
 }
