@@ -80,7 +80,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
  labels[1]: {
        "texts": ["파스타 스고이네"],
-       "images": ["https://cdn.goob-ne.com/goobne/img/menu/acb303237d214c46a69b5cff390f3238.png"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6910354%3Fsrsltid%3DAfmBOord1OxS11gqEWdBlnWLhdWtj2Cf5pZ4Z1T9st3iZwD4aPXdTOIa&psig=AOvVaw3sPea-6k4U1Eghi_Tmqfco&ust=1763424688206000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjU04Pz95ADFQAAAAAdAAAAABAE"],
        "videos": ["https://youtu.be/xbaW8OsTM8s?si=ghyiuz-u0gim9BWt"]
      },
 
