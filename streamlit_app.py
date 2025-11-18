@@ -87,7 +87,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[2]: {
        "texts": ["피자 와"],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25ED%2594%25BC%25EC%259E%2590&psig=AOvVaw1BfqeLD_-MQzPCPUpXmBBg&ust=1763423997196000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNi7-7nw95ADFQAAAAAdAAAAABAE"],
+       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTAzMjVfMTU1%2FMDAxNzQyODgwODUzMzAx.1VHoSyhFZV8I-Jc2rCfOJ09O5XOiZw4cOj9F7AXaL2kg.eLEyyI58kZylNKfjW6fBQPbDN_1bkZO8f3nAqd3P7Zkg.JPEG%2F900%25A3%25DF20250318%25A3%25DF113503.jpg&type=sc960_832"],
        "videos": ["https://youtu.be/HKtvzlSuTn0?si=R-mMESS0dHZ0VvcV"]
      },
 
