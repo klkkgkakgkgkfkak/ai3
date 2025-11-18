@@ -80,7 +80,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
  labels[1]: {
        "texts": ["파스타 스고이네"],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25022166&psig=AOvVaw0hMSgEaNQVC_8VQ37M-rB_&ust=1763424908357000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjq9e3z95ADFQAAAAAdAAAAABAc"],
+       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fimage.nmv.naver.net%2Fblog_2025_05_04_2112%2FBqyqBhLxSZ_03.jpg&type=sc960_832"],
        "videos": ["https://youtu.be/xbaW8OsTM8s?si=ghyiuz-u0gim9BWt"]
      },
 
